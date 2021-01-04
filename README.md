@@ -1,4 +1,4 @@
-### GitHub Finder
+## Scripting Pages
 
 Scripting Pages is a live online coding environment that can be used to write code and simultaneously visualize its output. This application was built using **React.JS** and helper libraries
 
